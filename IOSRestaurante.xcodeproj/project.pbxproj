@@ -88,10 +88,10 @@
 		5269C0452DAF456C00DC5AF1 = {
 			isa = PBXGroup;
 			children = (
-				5269C0502DAF456C00DC5AF1 /* IOSRestaurante */,
 				5269C0672DAF456D00DC5AF1 /* IOSRestauranteTests */,
 				5269C0712DAF456D00DC5AF1 /* IOSRestauranteUITests */,
 				5269C04F2DAF456C00DC5AF1 /* Products */,
+				5269C0502DAF456C00DC5AF1 /* IOSRestaurante */,
 			);
 			sourceTree = "<group>";
 		};
